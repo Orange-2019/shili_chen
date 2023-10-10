@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/sl_chen@whu.edu.cn'
+    link: 'mailto:sl_chen@whu.edu.cn'
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
