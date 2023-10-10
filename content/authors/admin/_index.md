@@ -36,7 +36,7 @@ education:
     - course: MEng in Photogrammetry and Remote Sensing
       institution: Wuhan University
       year: Expected 2024
-    - course: Remote Sensing Science and Technology
+    - course: BEng in Remote Sensing Science and Technology
       institution: Wuhan University
       year: 2021
 
